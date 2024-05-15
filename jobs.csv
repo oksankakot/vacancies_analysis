@@ -1,0 +1,686 @@
+title,company,salary,description,technologies
+No information,,No information,No information,
+Machine Learning,Logivations,No information,"Logivations is developing the most advanced robots navigated and controlled by Artificial Intelligence which are used by many international companies. We are seeking a talented and self-motivated Machine Learning / Python developer to work with the AI-team to improve overall system efficiencies through the use of advanced technologies. The ideal candidate is excited to learn new things and willing to work through the details to get things done.  Candidates only from Lviv or ready to relocate will be considered. Your responsibilities   
+ Work on applications of machine learning and computer vision in logistics  
+ Implement, extend, and apply latest research in deep learning  
+ Provide input and expert knowledge for the design of novel solutions  
+ Work on applications including: guidance of autonomous vehicles in logistics, camera based object identification., tracking 
+ Your profile   
+ Master or Bachelor degree in Computer Science, Mathematics, Statistics, Operations Research or related field  
+ 
+ Motivation to keep up to date with latest research  
+ Background or interest in computer vision technologies  
+ 
+ Creative mind, be able to develop real innovations  
+ Strong desire to overcome obstacles and make your work benefit  
+ Good English language skills  
+ We offer you   
+ A challenging, exciting and very interesting job opportunity  
+ Possibility to apply latest research in real-world use cases  
+ Very good salary, possibility for personal growth  
+ Payment in Euro  
+ Flexible working hours in a «trust» organization  
+ Optimal working environment and workplace  
+ Possibility to travel abroad to communicate with real customers 
+ Are you interested? We are happy to receive your CV or resume at: [ відгукнутися ]","Python,Responsibility,Machine learning,Deep Learning"
+Fullstack developer (Python),"Дервішов І.Г., ФОП",100 000 – 120 000 грн,"Наша продуктова компанія працює на ринку США. Уже рік працюємо в сфері маркетингу. Ми допомагаємо клієнтам створювати маркетингову стратегію і запускати рекламу за допомогою штучного інтелекту. Шукаємо проактивного розробника для створення другої версії нашого веб-порталу, де клієнти можуть виконувати свої маркетингові завдання. Умови: 
+ віддалена робота 
+ ставка 2500−3000$ 
+ Вимоги до кандидата: 
+ досвід від 2х років (python) 
+ вміння писати апі на python (flask/fastapi) 
+ робота з чергами/воркерами (celery) 
+ робота з postgresql 
+ знання html/css/js для інтеграції форм з апі 
+ вміння налаштування деплой середовища (heroku) 
+ досвід роботи з сторонніми api (chatpgt, drip, etc.) 
+ Обов’язки: 
+ сетап і налаштування взаємодії компонентів сайту 
+ налаштування логування і моніторингу 
+ розробка кабінету користувача (реєстрація, база даних, кабінет із доступами) 
+ надсилання запитів по апі в чат гпт 
+ Робота з фронтенд та бекенд (дизайнер, верстальник є, вам на фронтенді треба робити логіку сторінки)","CSS,HTML,JavaScript,Python,PostgreSQL,Flask,Celery,FastAPI"
+Python Developer,FoxmindEd,No information,"Шукаємо крутих  менторів Python  для наших крутих студентів! Пам’ятаєш себе на старті кар'єри? Багатьом із нас не вистачало сильного ментора, який підкаже, спрямує, обговорить з тобою різні підходи, рішення, тренди. Менторство — чудовий шанс здобути нові навички, поглянути на старі задачі з іншої точки зору, структурувати базові знання і, звісно, допомогти студентам. Що потрібно, щоб стати ментором Python в нашій команді: 
+ Комерційний досвід у програмуванні від 3-х років 
+ Впевнені знання Python 3, Django, Django Rest Framework, Flask, SQLalchemy 
+ Гарні знання та розуміння принципів веб-безпеки 
+ Впевнені знання БД (PostgreSQL, MySQL, SQLite) 
+ Розуміння OOP, шаблонів проектування, алгоритмів та структури даних 
+ Git, Linux, Docker 
+ AWS (буде плюсом) 
+ Базові знання HTML, CSS, Javascript 
+ Бажання навчати і допомогати початківцям 
+ Вміння пояснювати, знаходити підхід до різних людей 
+ Обов’язки: 
+ перевірка завдань (код-рев'ю) 
+ відповіді на питання студентів 
+ надання рекомендацій 
+ Можливості, які ти отримаєш: 
+ Спробуєш себе в якості ментора, а mentorship навички важливі для ролі Lead’а: +1 до твого резюме і особистого бренду 
+ Покращиш свої навички комунікації 
+ Розшириш коло своїх знайомств 
+ Сам краще розберешся у нюансах програмування у процесі навчання інших 
+ Допоможеш студентам розпочати омріяну кар'єру 
+ Додатковий дохід за приємну справу 
+ Можливо, зустрінеш ідеального колегу в свою команду 
+ Ми пропонуємо: 
+ Віддалену роботу без відриву від основної, при якій ти зможеш самостійно розподіляти своє навантаження і менторити стільки студентів, скільки забажаєш 
+ Оплату, яка залежить від кількості студентів: фіксована сума оплати за кожного студента.  
+ Якщо ви бажаєте приєднатися до нашої команди та внести свій вклад у розвиток IT-освіти, надсилайте своє резюме на електронну адресу [ відгукнутися ]","CSS,Користувач ОС Linux,JavaScript,HTML,MySQL,Git,Python,PostgreSQL,Знання принципів ООП,Docker,Django,Django Rest Framework,SQLite,REST,Flask,AWS,SQLAlchemy"
+Middle Python Back end Developer,ISi Technology,60 000 – 120 000 грн,"Необхідні навички 3+ years of professional experience in Python development 3+ years of professional experience: PostgreSQL, Django Rest Working Experience with DRF 3.X, Celery, AIO Http Additional knowledge with Redis, WebSockets, ElasticSearch Deployment Experience: Nginx, Supervisor, Git. Буде плюсом Angular JS, 2+ FrameWork Пропонуємо 
+ Paid Vacation — 20 days a year  
+ Sick Days — 5 days a year  
+ Medical Insurance  
+ Gym membership or sports compensation — so you can stay active and in shape :)  
+ Conferences/special online courses and events reimbursement  
+ English as a Second Language  
+ Flexible Schedule  
+ Team building and corporate activities  
+ High Skilled and High Motivated Team.  
+ Be able to put some inputs in the business logic of the features that you will develop 
+ Обов’язки 1. Design, implement, test, and maintain new features such as:  2. Efficiency algorithms in dispatching/ Searching functionality and employees availability to improve client’s business processes and improve their efficiency.  3. Scheduling part and implementing alert systems to notify our clients about critical situations within their business.  4. Invoicing, Billing, and Price calculation 5. User Management 6. API connectivity with driver/ passenger applications  7. Maintain high-quality code 8. Maintain software stability  9. API connections with the third-party services.  10. Maintain Scalability Within the Software Про проєкт 
+ iSi Technology has over 7 years of experience providing services in the USA market within the Non-Emergency Medical Transportation industry.  
+ Over the past few years, we have successfully implemented software that fully automates all business processes for NEMT companies, including Dispatching, Scheduling, Billing, Invoicing, Driver Applications, and Passenger Connectivity. This advancement has propelled us to become a leader in the NEMT software industry, catering to the largest fleets in both the USA and Canada. We proudly serve more than 700 companies. 
+ We have 3 offices: our main office in Buffalo, along with locations in Miami and Dnipro, Ukraine. At iSi Technology, we are not reliant on external investors or investment funds. As a self-growing enterprise, we hold our employees and their work in high regard. 
+ Do you want to talk to the owners? — No Problem! Our company operates with zero bureaucracy. If you are interested in collaborating with us in the USA for a few weeks, we readily welcome it. We are proud of our Ukrainian and USA teams! We cannot guarantee an easy interview process, but we assure you that the effort is worthwhile. Main Website —  iSi-technology.com   routegenie.com   nybillpro.com   claimgenix.com   healthguardtech.com  Homecare software — upcoming Clock In Clock Out system — upcoming NVR monitoring system — upcoming School Bus Software — on the road map for 2024−2025","Git,JavaScript,Python,PostgreSQL,Django,Django Rest Framework,nginx,HTTP,REST,Angular,Redis,Elasticsearch,Celery,WebSocket"
+Fullstack Python,Elementica,60 000 – 120 000 грн,"ABOUT ELEMENTICA Welcome to Elementica! We are excited to see you on our profile. Elementica is a leading global software development company — expert in delivering web development, mobile application development and IT consulting services of any complexity to clients worldwide. www.elementica.io JOB POSITION We are looking for a talented Fullstack Python/React Developer to join our Development Team. You will be at the core of our talented Web Apps teams and focus on building the most advanced and meaningful apps and workflows on the latest web technologies.  RESPONSIBILITIES AND DUTIES As a fullstack developer, you will work on our next generation applications, a specific project critical to our customer’s needs. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new challenges as we continue to push technology forward. We are Product oriented developers with a growth mindset. We are curious problem solvers and we like to collaborate, communicate, share knowledge and technical ideas and grow together. What you’ll do: 
+ Develop cloud based frontend and backend web applications 
+ Work in all phases of the software development life-cycle (planning, design, implementation, deployment, monitoring and support) 
+ Collaborate and grow in a dynamic environment while working in small, agile and cross functional teams 
+ Use the latest technologies to solve real problems for our customers 
+ Communicate and coordinate with our engineering team in Ukraine. 
+ What we look for in you: 
+ Results-orientation, collaborative, pragmatic and agile mindset 
+ Strong knowledge in working with Javascript, Typescript and Python 
+ Expertise with the cloud (preferably AWS or GCP) 
+ Working proficiency in English (written and verbal) 
+ Continuous independent learning 
+ We are looking for these skills/experience: 
+ Strong knowledge of one or more Python frameworks (Django, Flask, FastAPI) 
+ Familiarity with some ORM (Object Relational Mapper) libraries 
+ Strong knowledge of relational (PostgreSQL) and non-relational (MongoDB) databases 
+ Experience with React hooks, CSS-in-JS, Redux, Jest 
+ Understanding of SSR with Next.js 
+ Understanding of common development principles and best practices (SOLID, DRY, YAGNI) and basic understanding of design patterns 
+ Experience working with Docker and Docker Compose 
+ Experience in CI/CD processes is a plus 
+ Experience with web performance optimizations 
+ What we offer: 
+ The opportunity to drive the development of cutting-edge software products 
+ The chance to work on interesting technical challenges such as advanced algorithms, wide integrations or scalable content management 
+ A positive, highly skilled, young team with a focus on quality 
+ Hybrid/remote working possibility / Home-office friendly / Flexible working hours 
+ Pick your own gear: Linux or IOS — whatever works best for you 
+ A lot of room for your own ideas. We always highly encourage you to work on them together with the team. 
+ Outstanding compensation based on experience and 20 days vacation 
+ Sponsored training opportunities with Udemy and English classes 
+ Our job offer Full Stack Python/React Developer sounds interesting? Then we are looking forward to receiving your application!","CSS,Користувач ОС Linux,JavaScript,Python,PostgreSQL,React,Agile,Відповідальність,MongoDB,Docker,Docker Compose,TypeScript,Django,Flask,AWS,ORM,FastAPI,SOLID Principles,CI/CD"
+Senior Python Developer,Vilmate LLC,No information,"В компанію Vilmate шукаємо  Senior Python  розробника, який приєднається до американського стартапу, системи управління відеоконтентом (CMS) для B2B, яка може конвертувати відео в контент у великих масштабах. Vilmate ( careers.vilmate.com ) — це українська високопрофесійна команда з понад 120 розробників, QA та DevOps інженерів, дизайнерів та менеджерів. З 2012 року ми постачаємо індивідуальне програмне забезпечення північноамериканським і західноєвропейським клієнтам і маємо гарний досвід досвід як веб так і мобільній розробці. Про клієнта:  Наш клієнт — передова технологічна компанія, що спеціалізується на розробці системи управління відеоконтентом (CMS) для B2B, яка може перетворювати відео на контент у великих масштабах. По суті, вони будуть поглинати загальнодоступні відео, такі як вебінари та розмови, за допомогою штучного інтелекту, автоматично склеювати їх і робити відеокліпи семантично доступними для пошуку. Вони хочуть використовувати генеративний ШІ для перетворення цих відеокліпів на контент, який буде контекстним залежно від середовища, де він розміщений (LinkedIn, Instagram, блог, SEO-публікація тощо). Додаток допомагає маркетинговим командам перепрофілювати довгі відеоролики на повноцінні воронки, готові до кампаній з продажу та маркетингу. Основні обов’язки: 
+ Розробляти бек-енд частину веб-додатку. 
+ Розробляти та впроваджувати великомасштабні пайплайни даних для навчання найсучасніших моделей. 
+ Масштабувати виведення моделей та прогнозування в масштабі. 
+ Працювати на всіх етапах життєвого циклу продукту — від розробки концепції до виробництва. 
+ Розробляти та прототипувати пошукові системи, працювати над низкою завдань, включаючи генерацію корисних щільних векторів та переранжування. 
+ Вимоги: 
+ Щонайменше  8 років  підтвердженого  досвіду роботи бекенд-інженером  з фокусом на розробку масштабованих систем та API. 
+ Високий рівень володіння  Python . 
+ Досвід роботи з FastAPI. 
+ Високий рівень знань MongoDB. 
+ Високий рівень знань GCP (Storage, BigQuery, Cloud Function). 
+ Знання англійської мови на рівні  Upper-Intermediate або вище . 
+ Як плюс: 
+ Ступінь бакалавра або магістра в галузі комп’ютерних наук, програмної інженерії або суміжних галузях. 
+ Досвід роботи з  нейронними методами глибокого навчання та машинним навчанням . 
+ Досвід впровадження пошукових систем на основі ML, таких як  класифікація запитів, рекомендації, пошук на основі вбудовування або машинне ранжування (MLR) . 
+ Попередній досвід роботи з ML фреймворками, такими як  Pytorch, Tensorflow . 
+ Досвід роботи з великомасштабними розподіленими системами, такими як  Hadoop, Spark  тощо. 
+ Досвід роботи з OpenAI. 
+ Досвід роботи з VectorDB. 
+ Досвід роботи з ElasticSearch. 
+ Ми пропонуємо: 
+ Конкурентну заробітну плату та переваги. 
+ Гнучкий графік роботи. 
+ Відпустку — щорічна відпустка тривалістю 20 робочих днів. 
+ Персональний ноутбук із встановленим усім необхідним програмним забезпеченням. 
+ Послуги корпоративного бухгалтера, юриста та психолога. 
+ Безбюрократичний і прозорий менеджмент. 
+ Покриваються витрати, пов’язані з участю у семінарах та професійних конференціях. 
+ Внутрішні та онлайн корпоративні заняття з англійської.","Python,MongoDB,FastAPI,OpenAI"
+Python-програміст (стажер),Ky IQ,32 000 грн,"Шукаємо стажера з можливістю навчання (Офісний формат) Основні обов’язки: 
+ Участь у розробці програмних продуктів на мові програмування Python. 
+ Виконання завдань під керівництвом досвідчених програмістів. 
+ Тестування та відлагодження написаного коду. 
+ Активна участь у код-рев'ю та внесення коректив до програмного коду. 
+ Вивчення нових технологій та інструментів розробки. 
+ Вимоги: 
+ Базові знання мови програмування Python. 
+ Бажання вчитися та розвиватися в галузі програмування. 
+ Знання основних концепцій програмування та алгоритмів. 
+ Готовність до активної комунікації та співпраці в команді. 
+ Умови: 
+ Офісна робота в комфортному середовищі. 
+ Графік роботи з понеділка по п’ятницю з 9:00 до 18:00. 
+ Менторство та підтримка від досвідчених програмістів. 
+ Можливість отримати досвід у реальних проектах та зростання у професійному напрямку.","Python,Програмування,Бажання вчитися і розвиватися"
+Python,Solid Solutions,No information,"Solid Solutions  — це компанія, основний напрямок діяльності якої є web-mobile-розробка. Ми шукаємо досвідченого спеціаліста Team Lead Developer, який приєднається до нашої динамічної команди. Вимоги: 
+ Знання мови програмування Python на рівні експерта, PHP на впевненому рівні 
+ Досвід роботи з сучасними МVC-фреймворками Laravel, Yii, Zend бажано 
+ Впевнене знання ООП та принципів побудови масштабованих систем 
+ Впевнені знання реляційних баз даних MySQL чи PostgreSQL 
+ Впевнені знання JavaScript. Розуміння JS фреймворків  
+ Знання HTML, CSS, шаблонізаторів, фронтенд фреймворків 
+ Вміння користуватись системами контролю версій 
+ Написання якісного, підтримуваного та розширюваного коду 
+ Аналітичний розум, можливість ефективно вирішувати поставлені завдання 
+ Наявність закінчених проектів. Значний досвід роботи 
+ Досвід оцінки проектів, поетапного планування, проведення презентацій для замовника 
+ Досвід навчання менш досвідчених співробітників 
+ Досвід рецензування коду (код ревью) 
+ Умови роботи: 
+ П’ятиденний робочий тиждень 
+ Цікаві проекти 
+ Бонуси за якісну роботу 
+ Перспектива кар'єрного зростання 
+ Курси англійської за рахунок компані 
+ Навчальні програми 
+ Ми чекаємо на вас у нашій команді, де ви зможете проявити свій потенціал і зробити значний внесок у розвиток нашого продукту!","CSS,JavaScript,HTML,PHP,MySQL,Python,PostgreSQL,Знання принципів ООП,Laravel,Yii,Програмування,Zend Framework,SOLID Principles"
+Python Backend Developer,Canyon Development,No information,"Canyon Development запрошує  Python Backend Developer  до команди розробників. Наша компанія розробляє електронні пристрої та друковані плати. Маємо понад 100 успішно реалізованих проєктів середньої та великої складності для закордонних клієнтів. Зазвичай робота над проєктами починається з ідеї замовника та завершується прототипом або виробничою лінією.  Наші співробітники — професійні інженери, надаємо новачкам в компанії підтримку та обмін унікальним досвідом. Робота не буде монотонною, доведеться розв’язувати задачі у проєктах різної складності. Вакансія передбачає роботу в офісі міста Дніпро.  Необхідні знання та навички для цієї вакансії: 
+ вища або професійна технічна освіта, 
+ 2+ років досвіду Python Backend development, 
+ досвід роботи з операційною системою Linux на рівні досвідченого користувача,  
+ досвід роботи з git, багатозадачність (multithreading), робота з базами даних (SQL, noSQL) та docker. 
+ Буде плюсом досвід роботи: 
+ досвід розробки Python Backend у desktop GUI applications, web applications, mobile, 
+ Linux: знання конфігурації systemd, робота з файловою системою, мережевими інтерфейсами, 
+ досвід роботи з низьким рівнем: GPIO та UART, 
+ deployment Python-додатків на пристроях під управлінням Linux, 
+ досвід командної роботи, 
+ менторство (постановка та перевірка задач). 
+ Обов’язки: 
+ участь в проєктуванні архітектури Python-додатків, 
+ розв’язання проєктних задач на Python, 
+ code refactoring, 
+ code review. 
+ Ми пропонуємо: 
+ участь у цікавих та складних проєктах, 
+ командну роботу в системі с досвідченими розробниками, 
+ просторий офіс в центрі міста з генератором та безпечним бомбосховищем, два провайдери (оптоволокно) та допоміжний канал Starlink, 
+ компенсацію відпустки, 
+ гнучкий робочий графік, 
+ власний спортзал, клубні шахи та стретчинг. 
+ Чекаємо на ваші резюме та питання по вакансії.","Користувач ОС Linux,SQL,Git,Python,Docker,NoSQL,Backend-розробка,Робота в команді"
+Full-stack програміст на Python (Strong Junior),Аптека АНЦ,29 000 грн,"Привіт! Лідер аптечного ринку, мережа «Аптека Низьких Цін», ШАР @, Копійка, Благодія, запрошує тебе в нашу сім'ю. Зараз наша мережа — це більше 1000 аптек. Ми перші роботизовані аптеки в Україні і на цьому не зупиняємося. Ми шукаємо людей, які вміють справляти враження і закохані в свою справу. Можливо, це саме ти? Необхідні знання та вміння:  
+ Шукаємо Full Stack розробника python + javascript, готового реалізовувати весь цикл задачі: і back, і front-end. 
+ Бажаний стек: python3, django, DRF, ms sql (або інші СУБД) По фронту використовуємо: javascript, jquery 
+ Основна ціль посади: 
+ Реалізація і back, і front-end частин задач. 
+ Умови роботи: 
+ Роботу в дружній команді результативних професіоналів; 
+ Гідний рівень доходу (обговорюється при співбесіді); 
+ Офіційне працевлаштування; 
+ Довгострокові відносини і можливість професійного розвитку. 
+ Стань частиною нашої сім'ї і відкрий свій потенціал! Ми дбаємо про своїх співробітників і хочемо надихати їх на нові досягнення, тому разом ми сильніше і успішніше! Сподіваємося на твій внесок в активність і справжню турботу про колег і клієнтів, відкритість і комунікабельність, відповідальність і винахідливість. Залишилися питання? Надсилай своє резюме, телефонуй  +38050 — 364 — 88 — 74 Показати телефон , або проходь співбесіду з нашим чат-ботом, скануй QR код або переходь за посиланнями:  https://cutt.ly/anchrbot  (Viber) або  https://t.me/anc_hr_bot  (Telegram).","JavaScript,SQL,Python,Комунікабельність,Відповідальність,jQuery,Django,Django Rest Framework,Робота в команді,MS SQL Server,Frontend-розробка"
+Junior Python Developer,TraffGeek,16 000 грн,"TraffGeek шукає Junior Python Developer! Ми шукаємо Junior Python Developer, який хоче розвиватися в сфері розробки програмного забезпечення. Вакансія відкрита для всіх вне залежності від вашого віку, місця проживання, віри, статі, тощо. Наявність посилання до GitHub портфоліо дуже привітається! Обов’язки: 
+ Виконувати технічні завдання клієнтів за погодженим дедлайном. 
+ Створення Telegram ботів. 
+ Створення додатків з Python (API endpoints, адміністративні панелі, CRM, тощо). 
+ Вимоги: 
+ Маєте досвід роботи з Django або Flask. 
+ Маєте досвід роботи з Telegram API та відповідними бібліотеками: Telethon, Aiogram. 
+ Вміння коректно логувати повідомлення та помилки додатку для подальшого дебаггінгу, досвід з logging бібліотекою. 
+ Впевнено користуєтесь SQL: MySQL/PostgreSQL, SQLite, peewee. 
+ Знайомі з Git, GitHub, Git Flow. 
+ Ваш рівень англійської B1 або вище. 
+ Вміння опрацьовувати фідбек. 
+ Маєте бажання та можливість розвиватися як розробник. 
+ Вміння працювати в команді, комунікабельність. 
+ Ви ідеальний кандидат, якщо:  
+ Вмієте стягувати вебсайти (web scraping). 
+ Вміти деплоїти Python додатки на сервер. 
+ Знайомі з Gunicorn. 
+ Маєте досвід роботи з SSH, cURL, SFTP. 
+ Досвід роботи з Linux (Ubuntu, CentOS). 
+ Розумієте JavaScript на мінімальному рівні. 
+ Маєте досвід роботи з Redis. 
+ Маєте досвід у створенні ботів/скриптів для інших месенджерів/соц.мереж (Discord, Slack, Airtable, тощо). 
+ Маєте досвід з Github Actions, Docker/Podman. 
+ Умови: 
+ Віддалена робота. 
+ Графік роботи: понеділок-п'ятниця, 8 годин на добу, днівна зміна. 
+ Перший місяць роботи випробувальний період, рівень компенсації 16000 грн. 
+ Другий місяць роботи — компенсація 19 500 грн. 
+ Після перших двох місяців роботи, зарплатня підвищується до 23000 грн. 
+ Перегляд компенсації кожні півроку на суму 3500 грн. 
+ 10+ лікарняних на рік. 
+ 12+ відпускних на рік. 
+ Державні вихідні. 
+ Можливість кар'єрного росту та заробітку в майбутньому. 
+ Приєднуйтеся до нашої дружної команди :)","Користувач ОС Linux,SQL,Git,GitHub,Python,Комунікабельність,Telegram API,Django,Flask"
+Python Developer,PNN Soft,No information,"Requirements: 
+ Bachelor’s or Master’s degree in Computer Science  
+ We are looking for Full-Stack Python + JS/React development, ready to implement the entire cycle of tasks: both back and front-end  
+ Commercial experience in development using the Python programming language 
+ Experience with MySQL/PostgreSQL/MongoDB or other databases  
+ Experience with hosting Git repositories (GitHub, GitLab, Bitbucket)  
+ English — Intermediate level and above  
+ Strong understanding of object-oriented programming and software development principles 
+ Will be a plus: 
+ Experience with Docker  
+ Experience with Cloud technologies, Amazon Web Services (AWS), and Google Drive API 
+ Experience working with programming languages (PHP, JS, Java, C/C++, C #) 
+ Responsibilities: 
+ Development and improvement of software products of both back and front-end parts of tasks  
+ Promotion of new functional capabilities and upgrading of essential additions  
+ Use of best practices for software development and testing, compliance with technical standards, and code quality requirements adopted by the project 
+ Advantages: 
+ Competitive salary 
+ Opportunities for career growth in a successful and innovative IT company 
+ Friendly and dynamic work environment 
+ Corporate English 
+ Conditions: 
+ Full-time position 
+ On-site or remote work options","Java,PHP,MySQL,Git,GitHub,GitLab,JavaScript,Python,C++,PostgreSQL,React,Відповідальність,MongoDB,Docker,Програмування,Знання принципів ООП,AWS,C#"
+Intern Python developer,HYS Enterprise,No information,"Requirements: 
+ Proficiency in Python3 programming language; 
+ Understanding of basic software development concepts such as data structures, algorithms, and object-oriented programming; 
+ Familiarity with version control systems, preferably Git; 
+ Passionate about AI; 
+ Good communication skills; 
+ Upper-Intermediate English level; 
+ Based in Ukraine (with the option for occasional office visits). 
+ Candidates who do not meet the stated requirements might not be considered. Would be a plus: 
+ Experience in creating native applications (tkinter, PyQt, etc.); 
+ Experience with embedding models;  
+ Experience with libraries such as crewAI, langchain, langgraph; 
+ Understanding of how transformers work; 
+ Experience working with Hugging Face, gsheet API. 
+ About the project: Our tool helps non-technical specialists create AI agents in CrewAI for business tasks using the Google Sheets interface, bypassing direct coding work in CrewAI.  We offer: 
+ Internship schedule: Monday to Friday, 10.00−19.00 
+ Office-based / remote work; 
+ No time trackers or other bureaucratic measures; 
+ Practical experience on internal projects;  
+ Networking with experienced professionals willing to share their knowledge and experience;  
+ Opportunity to obtain a contract with HYS Enterprise as a Junior specialist. 
+ Gifts for birthdays and professional holidays; 
+ Interaction with experienced professionals willing to share their knowledge; 
+ Participation in internal and external events, the opportunity to build or promote your own brand.","Git,Python,Комунікабельність,Програмування,Знання принципів ООП,PyQt,Tkinter"
+Data Engineer,SpaceCrew Finance Company,No information,"Привіт, ми — команда ризиків групи компаній SpaceCrew Finance (https://www.spacecrew-finance.com/). Зараз в пошуках колеги, який стане частиною нашої дружньої команди. Шукаємо людину, яка всією душею любить свою справу, а також не боїться складних викликів. Трохи про нашу групу компаній SpaceCrew Finance:  Наша основна місія — робити гроші доступними. Для цього ми винайшли сучасні методи ідентифікації, верифікації, оцінки рівня ризику позичальника та створили унікальний сервіс, який зробив прорив на ринку мікрокредитування. 
+ На FinTech-ринку з 2016 року — перший проєкт MyCredit; 
+ За 18 місяців увійшли до ТОП-3 фінансових сервісів та e-commerce проєктів України; 
+ 2019 — Увійшли до рейтингу «ТОП-10 інвестицій на українському венчурному ринку» UVCA; 
+ 2020 — Запустили проєкт СlickCredit Україна; 
+ 2021 — Запустили проєкт OnCredit у Шрі-Ланці; 
+ Наші переваги: 
+ Власна розробка продукту: CRM для обслуговування клієнтів, Backend та Frontend розробка, розробка мобільних додатків; 
+ Власна автоматизована Data Science Lab; 
+ Фундамент нашого бізнесу — це команда. Ми всі друзі і говоримо на «ти», чуємо і поважаємо думку кожного; 
+ Ми формуємо команду з людей, які розділяють наші цінності! Саме тому, нам так комфортно працювати разом. 
+ Data Engineer/Python Developer в нашій команді буде займатися наступними завданнями: 
+ Підтримкою сервісів машинного навчання на продакшені; 
+ Розробкою та деплоєм нових сервісів; 
+ Створенням ETL пайплайнів; 
+ Створенням систем моніторингу та алертінгу. 
+ Фільтром для цієї позиції буде: 
+ 2+ років досвіду з Python;  
+ 1+ рік досвіду на позиції Data Engineer;  
+ Професійний досвід використання бібліотеки pandas;  
+ Досвід з реляційними базами (MsSQL);  
+ Досвід роботи з нереляційними базами (MongoDB);  
+ Досвід з AirFlow. 
+ Цілі та завдання на період випробувального терміну: 
+ Вивчення продукту; 
+ Інтеграція в команду та процеси; 
+ Виконання у строк поставлених задач на достатньому рівні. 
+ Як ми взаємодіємо з кандидатами: 1 етап: спілкування з рекрутером онлайн (близько 30 хвилин); 2 етап: спілкування з твоїм майбутнім керівником онлайн або особисто (близько 1 години). Як проходитиме твоя адаптація в SpaceCrew Finance: Наш HR зустріне тебе, вручить welcome box і познайомить з усією командою. Допоможе долучитися до всіх процесів і цінностей компанії, проведе мітинг з адаптації та буде підтримувати протягом усього періоду; За тобою буде закріплений баді, який полегшить твою адаптацію, буде відповідати на всі твої питання і допоможе швидко влитися в роботу. Чому саме SpaceCrew Finance? 
+ У нас прозора система нарахування зарплат, ми сплачуємо всі податки і працевлаштовуємо з першого робочого дня; 
+ Надаємо 24 дні відпустки, оплачуваний лікарняний, медичну страховку; 
+ Гнучкий та гібридний графік роботи: ти зможеш самостійно планувати свій день і періодично працювати з дому; 
+ Ми створили «пункт незламності « SpaceCrew Financ e » для своїх співробітників та їх рідних, у нас в офісі є генератори та Starlink! 
+ У нас прекрасно налаштований цикл внутрішнього клієнта та ми регулярно збираємо зворотній зв’язок від співробітників; 
+ Оплачуємо професійні курси та тренінги, також, у нас є внутрішній кадровий резерв.  
+ Ми розвиваємо наших колег не тільки горизонтально, а й вертикально. 64% керівників — співробітники з кадрового резерву; 
+ У нас багато традицій — корпоративи, тимбілдинги та тематичні заходи: День нутелли, День хот-дога, Масляна, Таємний Санта, День сну та інші. 
+ В офісі є зони відпочинку, бібліотека та настільні ігри, а також кухня, де завжди є чим поласувати; 
+ Ми компенсуємо заняття спортом; 
+ У нас є корпоративна англійська, якою може займатися кожен охочий; 
+ Та багато інших бонусів і плюшок, про які розкажемо тобі при особистому спілкуванні. Якщо наша вакансія тобі до душі — надсилай своє резюме — і ставай частиною нашої команди. Щоб дізнатися більше про SpaceCrew Finance  і відчути нашу атмосферу, переходь за посиланнями: https://www.instagram.com/spacecrew_team/","Python,MongoDB,pandas"
+No information,,No information,No information,
+Junior Python developer,"B and G, soft agency",15 000 – 20 000 грн,"Компанія «B and G, soft agency» шукає кандидата на посаду «Junior Python developer».  Це віддалена робота з можливістю гнучкого графіку.  Ми шукаємо людину з досвідом від 1 року, яка готова долучитися до нашої команди та розвивати свої навички у програмуванні на Python. Ми відкриті для кандидатів без освіти, але з відповідним досвідом у сфері програмування.  Головні вимоги: 
+ розуміння основ Python,  
+ бажання вчитися та розвиватися у цій сфері,  
+ вміння працювати в команді.  
+ Якщо ви шукаєте можливість почати кар'єру в IT галузі та розвиватися разом з нами, надсилайте свої резюме! Web3 буде плюсом","Python,Робота в команді,Програмування,Бажання вчитися і розвиватися,Flask,FastAPI,PostgreSQL,Selenium"
+Python developer (Trainee,Appexoft,No information,"About company: Appexoft is Software Development Company that provides a full range of top-quality IT services. Our mission is to develop first-class applications and Websites to provide our clients with the best solutions for maximizing their profits and converting their ideas into reality. Requirements: 
+ Development experience in the Python programming language; 
+ Knowledge of frameworks such as Django, DRF 
+ Understanding of the basic principles of object-oriented programming; 
+ Database skills such as MySQL, PostgreSQL 
+ Experience with version control systems such as Git; 
+ Ability to work in a team; 
+ We offer: 
+ Interesting and challenging projects. 
+ Vast opportunities for professional development. 
+ Competitive salary. 
+ Delicious coffee biscuits and tea for your good mood. 
+ Friendly team of professionals. 
+ Comfortable working environment.","MySQL,Git,Python,PostgreSQL,Django,Django Rest Framework,Програмування,Знання принципів ООП"
+Junior,Інсайдери,No information,"About the vacavncy:   We are a young and rapidly growing company with more than 100 dedicated and highly skilled developers of various levels. As this opportunity requires working from our office, it is open exclusively to Lviv residents. To apply for this position, you will need to prepare for a technical interview to demonstrate your capabilities, skills, and knowledge.  What we expect from the candidate:   
+ Experience in development using the Python programming language is required. 
+ Knowledge of frameworks such as Django and DRF is necessary. 
+ Understanding of the fundamental principles of object-oriented programming is essential. 
+ Proficiency in working with databases such as MySQL and PostgreSQL is important. 
+ Experience with version control systems like Git is mandatory. 
+ The candidate must demonstrate seriousness and the ability to collaborate effectively both in a team and independently. 
+ What we offer:   
+ Convenient work schedule. 
+ Company-provided equipment. 
+ Friendly office atmosphere designed for comfortable work. 
+ Official employment with a competitive salary, taking into account your skills and experience. 
+ Support from an experienced team of developers and managers. 
+ Exciting projects for you to participate in.  Feel free to contact us now; this could be the beginning of our collaboration! We will respond promptly upon receiving your resume.","MySQL,Git,Python,PostgreSQL,Django,Django Rest Framework,Робота в команді,Програмування,Знання принципів ООП"
+Python Developer (Mid-Level,Piche Ltd,63 500 – 98 000 грн,"About Us At PICHE, we are at the forefront of engineering and technological innovation in the construction and structural engineering sector.  We specialize in developing cutting-edge automation tools and software solutions to streamline building design and engineering processes. Our team is dedicated to pushing the boundaries of what’s possible, turning complex engineering challenges into automated solutions. The Role We’re looking for a passionate and skilled  mid-level Python Developer  with a background in engineering and a 3D aptitude to join our dynamic team. The successful candidate will play a crucial role in developing and enhancing building design tools and RFEM (Finite Element Method software) plugins. This position offers a unique opportunity to contribute to groundbreaking projects that shape the future of structural engineering. Key Responsibilities 
+ Develop and maintain Python-based applications and tools for building design and structural analysis, with a focus on 3D aptitude. 
+ Collaborate with the development team to create RFEM plugins to enhance engineering workflows. 
+ Engage in all phases of software development, including planning, design, development, testing, deployment, and maintenance. 
+ Work closely with structural engineers to understand their needs and translate them into efficient software solutions. 
+ Continuously improve and optimize existing tools for better performance and user experience. Participate in code reviews, ensuring adherence to industry best practices and company coding standards. 
+ Upkeep of current solutions, ensuring they remain functional and up-to-date. 
+ Requirements 
+ Bachelor’s degree in computer science, Engineering, or a related field. 
+ 3+ years of professional experience in Python development. 
+ Strong understanding of object-oriented programming and software development principles. 
+ Experience with GUI development and the ability to create user-friendly interfaces. Familiarity with software development methodologies (Agile, Scrum, etc.). 
+ Knowledge of finite element analysis or structural engineering is an advantage but not a requirement. 
+ Excellent problem-solving skills and the ability to work independently or as part of a team. 
+ Strong communication skills, both written and verbal, with the ability to collaborate effectively across disciplines. 
+ WE’RE HAPPY TO PROVIDE YOU WITH: 
+ Salary  1500 — 2300 EUR gross . 
+ Fully remote  work opportunities. 
+ Breathtaking  challenges , where everything is possible. 
+ Great attitude  from colleagues and creative management.","Python,Scrum,Agile,Communicability,Responsibility,Programming,Knowledge of OOP principles,Discipline,Engineering"
+AQA Engineer (Python,Quintagroup,No information,"Quintagroup is a company of professionals that provides consulting, programming, and support services to organizations interested in deploying web-based solutions on the cloud. We are looking for a talented AQA Engineer (Python, Playwright) The AQA specialist will be able to participate in the development of data analytics platform where quality is essential.  Required: 
+ Python 
+ Playwright 
+ Spoken English 
+ Automated testing 
+ Will be a plus 
+ Git 
+ Robot Framework 
+ Selenium 
+ Experience in automation of external and internal testing 
+ Experience in testing web applications GUI, API 
+ Projects details. Technology stack:  
+ Backend:  Python . Django, AWS 
+ Frontent: React,  Next.js 
+ AQA: Playwright, Python 
+ We offer : 
+ opportunities for career and professional growth; 
+ Friendly atmosphere and good working conditions; 
+ Regular team-buildings and corporate parties; 
+ Competitive salary and bonuses; 
+ Official employment; 
+ In-office English classes; 
+ Flexible working hours;","Git,JavaScript,Python,React,Django,Selenium,Програмування,AWS,Playwright"
+Python Developer (Mid. Level,Piche Ltd,76 000 – 125 000 грн,"At PICHE, we are at the forefront of engineering and technological innovation in the construction and structural engineering sector.  We specialize in developing cutting-edge automation tools and software solutions to streamline building design and engineering processes. Our team is dedicated to pushing the boundaries of what’s possible, turning complex engineering challenges into automated solutions. The Role We’re looking for a strong mid to senior level Python Developer with 5+ years of experience, who is also proficient in RabbitMQ, and experienced in Service Oriented Architecture (Rest, Micro-services, etc.). Knowledge of C# is desired, along with a 3D aptitude and an engineering background. The successful candidate will play a pivotal role in technical leadership, implementing software development processes, and transforming our existing fragmented landscape into a unified Architecture. Additionally, they will be responsible for the upkeep of current solutions. Key Responsibilities 
+ Serve as a technical lead, guiding the team in architectural decisions and best practices. 
+ Implement software development processes, ensuring efficiency and quality throughout the development lifecycle. 
+ Lead efforts to transform our existing fragmented landscape into a united Architecture, fostering cohesion and scalability. 
+ Maintain and update current solutions, ensuring they remain functional and aligned with evolving requirements. 
+ Additional Responsibilities 
+ Develop and maintain Python-based applications and tools for building design and structural analysis. 
+ Collaborate with the development team to create RFEM plugins to enhance engineering workflows. 
+ Engage in all phases of software development, including planning, design, development, testing, deployment, and maintenance. 
+ Work closely with structural engineers to understand their needs and translate them into efficient software solutions. 
+ Continuously improve and optimize existing tools for better performance and user experience. 
+ Participate in code reviews, ensuring adherence to industry best practices and company coding standards. 
+ Requirements 
+ Bachelor’s degree in computer science, Engineering, or a related field. 
+ 5+ years of professional experience in Python development. 
+ Strong understanding of object-oriented programming and software development principles. 
+ Experience with RabbitMQ and Service Oriented Architecture (Rest, Micro-services, etc.). 
+ Familiarity with C# is desired. 
+ Strong 3D aptitude and an engineering background are desired. 
+ Excellent problem-solving skills and the ability to work independently or as part of a team. 
+ Strong communication skills, both written and verbal, with the ability to collaborate effectively across disciplines. 
+ WE’RE HAPPY TO PROVIDE YOU WITH: 
+ Salary  1800 — 3000 EUR gross . 
+ Fully remote  work opportunities. 
+ Breathtaking  challenges , where everything is possible. 
+ Great attitude  from colleagues and creative management. 
+ This position offers a unique opportunity to contribute to groundbreaking projects that shape the future of structural engineering. If you’re passionate about pushing the boundaries of technology in the construction industry, we want to hear from you!","Python,C#,Communicability,Responsibility,REST,Programming,Knowledge of OOP principles,RabbitMQ,Discipline"
+Python-программист,Okumy,No information,"Проекту Okumy на полную занятость в команду необходим программист со знанием Python.  Технологии, которые необходимо применять: 
+ Python 
+ Flask или Django, aiohttp будет плюсом 
+ SQLAlchemy 
+ Postgres и хорошее знание SQL 
+ Базовые знания веб технологий HTML, HTTP, работа браузера и протоколов 
+ Базовые знания верстки, HTML и JS в объеме простого интерактива (проверка форм, отправка AJAX запросов)  
+ Git, gitfow 
+ Linux на уровне пользователя 
+ Желательно знать или плюс:  
+ Фронтенд фреймворки 
+ Docker 
+ Понимание работы CI/CD 
+ Требования:  
+ Умение управлять своим временем и взрослый подход к срокам.  
+ Внимание к деталям. 
+ Условия работы: 
+ Небольшая удаленная и распределенная команда 
+ Размер зарплаты по результатам собеседования","Пользователь ОС Linux,HTML,SQL,Git,JavaScript,Python,PostgreSQL,Docker,Django,HTTP,Программирование,Flask,SQLAlchemy,Aiohttp,CI/CD"
+Intern/trainee analytic programmer (DAX,Business Research Group,No information,"Потреба:   Наймемо технічного помічника в науковому актуарно-статистичному проекті для програмування на DAX, M, VBA, SAS, R, Python та суміжних функцій. Бажано студента. Оплата  погодинна залежно від рівня. Пересилаємо через Вестерн Юніон. Погодинний облік ведете в гугл-шит файлі, щодня відзначаючи зроблені завдання. Вимоги  до кандидата: 
+ Мати довготривалу кар'єрну орієнтацію на аналітичне програмування чи споріднені галузі, такі як статистика, актуарні науки, аналіз даних чи машинне навчання. 
+ Знати хоча б одну з мов — DAX, M, VBA, SAS, R, Python. 
+ Освіта або поточне навчання в одній із дисциплін: математики, статистики, актуарних чи комп’ютерних наук. 
+ Базовий рівень англійської мови. 
+ Мати швидкий інтернет, бути доступним по емейлу, скайпу, телеграму, вайберу, вотсапу. 
+ Мати для роботи кілька годин на день для скайп сесій та домашніх завдань. 
+ Обов’язки  за наймом: 
+ Виходити на щоденні скайп сесії. 
+ Проводити задані дослідження та писати код. 
+ Допомагати у попутних тимчасових та рутинних задачах. 
+ Заповнювати файл обліку годин на гугл драйві. 
+ Розглядаються  заявки , в яких зазначено: 
+ Ім'я, прізвище, місто 
+ Телефон, імейл, скайп. 
+ Резюме 
+ Фото (необов'язково). 
+ Досвід у DAX, M, VBA, SAS, R, Python. 
+ Освіта чи поточне навчання. 
+ Скільки годин на тиждень ви можете приділити роботі. 
+ Нинішня форма діяльності (робота, навчання…). 
+ Рівень англійської мови (не критично).",
+Python Developer,Ronis Commerce OÜ,No information,"Наша компанія знаходиться в пошуку колеги —  Python-розробника  для участі в цікавих закордонних веб-проектах. Основні  завдання , які виконуватиме розробник у нашій компанії: 
+ розробка веб-додатків для управління інтернет магазинами 
+ інтеграція зі сторонніми сервісами з API 
+ розробка баз даних 
+ написання додатків для аналізу та обробки даних 
+ Основні вимоги до вакансії: 
+ досвід роботи на аналогічній позиції від 1,5 років 
+ досвід участі у розробці навантажених web-проектів 
+ розуміння основних принципів роботи HTTP та RESTful APIs 
+ досвід роботи з MySQL/PostgreSQL, Docker, Git 
+ вміння писати зрозумілий код 
+ вміння розумітися на чужому коді 
+ досвід роботи в командному рядку Linux 
+ англійська, достатня для читання документації 
+ вміння працювати в команді 
+ знання інших технологій та мов (PHP, Javascript) буде плюсом 
+ Зі свого боку ми пропонуємо: 
+ віддалений формат роботи 
+ гідну та своєчасну заробітну плату, що переглядається за результатами роботи 
+ цікавий та масштабний проект 
+ допомогу на всіх етапах нашої співпраці 
+ роботу в компанії, що стабільно розвивається 
+ натхнену команду професіоналів 
+ підтримку компанії у професійному розвитку. 
+ RONIS це: 
+ одна з провідних компаній з розвитку електронної комерції 
+ компанія, що успішно розробила та просуває власний продукт 
+ сильна команда, що активно зростає.","Користувач ОС Linux,JavaScript,PHP,MySQL,Git,Python,PostgreSQL,Docker,Робота в команді,HTTP,REST API,Розробка API"
+Python-программист,"Ливемарк, ТОВ",8 000 – 15 000 грн,"Наша компания занимается разработкой и сопровождением программных продуктов, которые используются в сфере транспорт  Для усиления отдела разработки мы ищем программистов: Требования :  
+ уверенные знания Python (back-end, front-end) 
+ Знание Базы данных: PostgreSQL, MySQL 
+ работа с: Django, Flask SQLAlchemy, psycopg2; threading, asyncio, aiohttp, pandas 
+ умение разбираться в аппаратной части устройств под которых идет разработка ПО  
+ умение читать «мануалы» к новым библиотекам и осваивать различные специализированные Frameworks 
+ Желательны навыки работы с JavaScript, telebot, aiogram  
+ Условия работы : официальное трудоустройство Рабочий день: с 9−00 до 18−00 (+ перерыв) работа в офисе в дружной команде","JavaScript,MySQL,Python,PostgreSQL,Django,Робота в команді,Програмування,Робота з базою даних,Flask,pandas,SQLAlchemy,asyncio,Threads,aiogram,Aiohttp,Threading"
+Python developer (з навчанням),Pixel Lab,26 000 – 31 000 грн,"Шукаємо Trainee Junior Python Java Direct IT Web Developer з можливістю навчання.  Що ви будете робити: 
+ Розробка веб-додатків на Python та Java 
+ Вивчення нових технологій та інструментів розробки  
+ Підтримка та вдосконалення існуючих веб-проектів  
+ Що ми чекаємо від тебе:   
+ Розуміння основ веб-розробки  
+ Комунікабельність 
+ Готовність до навчання та професійного росту  
+ Вміння працювати в команді та самостійно  
+ Ми пропонуємо: 
+ Можливість отримати цінний досвід у сфері програмування  
+ Навчання та підтримку від досвідчених спеціалістів  
+ Кар'єрний ріст та можливості для самореалізації  
+ Графік роботи 5/2 з 9:00 до 18:00 
+ Дружню атмосферу в колективі  Не дистанційно.   
+ Якщо ви мрієте про кар'єру в ІТ і готові навчатися та розвиватися, надішліть своє резюме сьогодні!","Java,Python,Комунікабельність,Програмування"
+Senior/Tech Lead Python developer,"Lean Geeks, LLC",98 000 – 150 000 грн,"Мы — продуктовая команда, не занимаемся версткой и лендингами, а разрабатываем и поддерживаем SAAS-решения. Делаем это качественно, занимаемся не только добавлением фич, но и «внутренним качеством»: продумываем архитектуру решений, не забываем про ревью кода, и отдачу техдолга. Стараемся увеличивать стабильность и простоту поддержки наших решений, на всех проектах тратим время в том числе на это, а не только на бизнесовые фичи. Берём в работу не все проекты подряд, а только те, что нам интересны. Мы действительно работаем как команда: поддерживаем друг друга, и помогаем развиваться. Минимизируем формальные правила — каждый работает так, как ему удобно, но учитывая интересы тех коллег, с которыми есть общие активности. Для нас в приоритете здоровая атмосфера в команде, профессиональное развитие, общение и взаимопомощь. Мы против «галер» и тому подобного. Старательно поддерживаем ⚠️butthead-free environment⚠️, не только внутри команды, но и среди клиентов. Если Вам интересен дружный коллектив — милости просим! Один из наших клиентов — компания  XAgency , которая разрабатывает решения для бизнеса на базе AI. Над их проектами сейчас работает команда из 5 python-разработчиков. На общем созвоне члены команды решили, что задачи, которые перед нами ставятся требуют больше знаний и опыта, чем у нас есть, и нужно искать лида по направлению Python, который поможет нам с архитектурными решениями. Обязательные требования: 
+ Глубокое понимание принципов архитектуры приложений, включая не только веб-приложения, но и другие типы приложений.  Навыки анализа работы команды и выявления ошибок являются ключевыми. 
+ Значительный опыт разработки систем на языке Python, превосходящий рамки создания простых веб-сайтов. 
+ Продвинутые знания Python-веб-фреймворков, Django REST (нужно знать DRF, но основной объём задач — за рамками Django) 
+ Понимание работы серверов, опыт их настройки и поддержания (хотя бы на пет проектах) 
+ Отличное владение английским языком как профессиональным инструментом общения. 
+ Будет круто, если ещё есть: 
+ Опыт работы с микросервисной архитектурой, и типичным для неё тулингом (API gateway, tracing, etc.) 
+ Понимание разработки приложений с использованием LLM (API OpenAI, Langchain и другие) 
+ Реальный опыт с LLM (пусть даже хобби-проекты) 
+ Наш технологический стек (просто для информации): 
+ Laravel/Symfony/NestJS/Golang/Python — для бэкендов 
+ React + NextJS + Ant Design для web-фронтенда 
+ Flutter для мобильных приложений 
+ Python — для продуктов, использующих LangChain 
+ Компенсация: 
+ Вилка ЗП: $2500.$4000 
+ 4 недели оплачиваемого отпуска в год 
+ оплачиваемые больничные без справок 
+ оплачиваемые праздники, включая новогодние каникулы 
+ переработки считаем плохой практикой, но учитываем и оплачиваем их х1.5 
+ Необходимо заполнить и отправить гугл-форму : Форма содержит интересующие нас вопросы, а также небольшое техническое задание.  https://forms.gle/NRUd54TS8kYcVUKK9","Python,Django,Django Rest Framework,REST,OpenAI"
+Strong junior,"Легал Солюшнз, юридическая компания",15 000 – 35 000 грн,"Юридична компанія «Legal Solutions», що спеціалізується на обслуговуванні бізнесу в Україні та по всьому світі, шукає в свою команду python-розробника для роботи над внутрішніми проектами з автоматизації. Вимоги до кандидата: 
+ Досвід у розробці програмних продуктів на Python не менше 1 року. 
+ Знання і вміння працювати з різноманітними фреймворками та бібліотеками Python. 
+ Вміння працювати з чат-ботами та парсерами буде перевагою. 
+ Уважність до деталей та високий рівень пунктуальності. 
+ Основні обов’язки: 
+ Розробка та підтримка програмних продуктів на Python. 
+ Реалізація функціоналу чат-ботів, парсерів та інших програм на основі специфікацій. 
+ Внесення коректив у вже існуючі проекти. 
+ Активна участь у процесі тестування та оптимізації програмного коду. 
+ Ми пропонуємо: 
+ Стабільність як в зп, так і в воркфлоу. 
+ Гнучкий графік роботи. 
+ Можливість працювати в комфортному офісному середовищі або віддалено. 
+ Конкурентну заробітну плату, яка виплачується своєчасно. 
+ Якщо ви готові приєднатися до нашої команди та віддати перевагу розвитку в сфері IT, надсилайте своє резюме з портфоліо та зарплатними очікуваннями нам на електронну адресу [ відгукнутися ]. Наша команда з нетерпінням чекає на вашу кандидатуру!","Python,Робота в команді,Пунктуальність,Уважність"
+Python/Django Developer (Junior,AD Media Profit,No information,"Про компанію: AD MEDIA PROFIT —  ми маркетингове агентство, що спеціалізується на наданні рекламних послуг по всьому світу. Наш відділ розробки відіграє ключову роль у створенні переваг для наших клієнтів, розробляючи та підтримуючи унікальні продукти, що допомагають досягти бізнес-цілей.  Ми шукаємо талановитих спеціалістів на позицію  Full Stack розробника  з досвідом від  2-х років , готових до розробки нової функціональності та підтримки і рефакторингу поточного проекту. Запрошуємо досвідчених розробників приєднатися до нашої команди, щоб спільно створити рішення, яке має потенціал змінити уявлення про внутрішнє управління рекламними командами і внести суттєвий вплив у цю сферу. Про проект: CRM-система закритого типу для внутрішнього використання, що включає бекенд і фронтенд компоненти для повного керування даними та взаємодії з ними всередині компанії і оптимізовує внутрішні процеси.  Мета проекту — створення ефективного інструменту для збору, аналізу та використання даних, спрямований на підвищення продуктивності та координації дій між членами команди.  Наш стек: Python  ( Django/DRF) , JavaScript (React) , PostgreSQL, Celery, Redis, Docker/Docker Compose, Git, GitLab, GitKraken, Trello. Вимоги: 
+ Досвід роботи з  Python (Django)  у веб розробці  від 2+ років 
+ Досвід роботи з  Django REST Framework , написання власних  API  та документації; 
+ Вміння писати та оптимізовувати запити  Django ORM — MUST HAVE. . 
+ Відмінні знання:  OOP, SOLID, TDD, DRY, KISS . 
+ 
+ Досвід з  PostgreSQL  або з іншими базами даних 
+ 
+ Впевнене володіння Docker та Docker Compose. 
+ Досвід роботи з  React  (або інших фронтенд фреймворків) та практичний досвід роботи в комерційних проектах  від 6 місяців. 
+ Професійне володіння  Git , включаючи знання різних стратегій роботи з гілками ( git flow, branching strategies ), а також досвідчені навички управління версіями. 
+ Хороші технічні, аналітичні навички та вирішення проблем. 
+ Добре знання найкращих практик проектування програмного забезпечення та шаблонів проектування. 
+ Рівень англійської Upper-Intermediate (або вище). 
+ Плюсом буде: 
+ Досвід інтеграції з  3rd party API , зокрема  Facebook  і  TikTok . 
+ Розробка інтеграційних, модульних та юніт-тестів, а також написання тестів за допомогою Selenium для автоматизації тестування інтерфейсів. 
+ Досвід роботи  Redis ; 
+ Обовʼязки: 
+ Підтримка та модернізація існуючих проєктів. 
+ Розробка якісного коду згідно із сучасними стандартами (включно  PEP8 ). 
+ Самостійна розробка функціональності та вміння працювати з великим обсягом технічної інформації. 
+ Швидка адаптація до динаміки роботи команди та своєчасне виконання завдань. 
+ Аналіз потреб, проєктування та розробка нових функцій разом з командою. 
+ Підтримка та рефакторинг існуючого коду, поліпшення процесів розробки. 
+ Вміння та бажання ефективно працювати в команді. 
+ Ми пропонуємо: 
+ Конкурентну заробітну плату 
+ Можливість віддаленої роботи 
+ Гнучкий графік та можливість раціонально розпоряджатися робочим часом 
+ Робота в команді кваліфікованих та досвідчених спеціалістів 
+ Можливість професійного зростання та розвитку  
+ Якщо ви впевнені, що відповідаєте вимогам, описаним вище, і хотіли б приєднатися до нашої команди, будь ласка, надсилайте своє резюме. Також треба виконати тестове завдання.","JavaScript,Git,GitLab,Python,Trello,PostgreSQL,React,Знання принципів ООП,Docker,Docker Compose,Django,Django Rest Framework,Unit-тестування,REST,Selenium,Redis,Знання принципів TDD,ORM,Celery,KISS,Продуктивність,SOLID Principles"
+Junior Python-розробник,BitProgram,20 000 – 25 000 грн,"Основні обов’язки: 
+ Аналіз великих обсягів даних за допомогою регресійних моделей, A-B тестування, вирішення завдань кластеризації. 
+ Створення звітів та інформаційних панелей. 
+ Участь у підготовці презентацій для клієнтів. 
+ Взаємодія з колегами з інших аналітичних відділів. 
+ Участь у аналітичних проектах разом з іншими відділами. 
+ Основні вимоги:   
+ Знання основ Python; базові знання Excel та PowerPoint. 
+ Гарні комунікативні навички, аналітичні здібності, орієнтація на результат. 
+ Умови:   
+ Проводимо навчання для кандидатів без досвіду! 
+ Процес обміну знаннями та зростання в команді. 
+ Режим роботи з 09:00 до 19:30, комфортний офіс в центрі Києва. 
+ Графік роботи 5/2. 
+ Цікаві та нетривіальні завдання. 
+ Дружний колектив. 
+ Шукаємо співробітника на НЕ віддалений формат роботи!","MS PowerPoint,MS Excel,Python,Комунікабельність,Робота в команді"
+Python Developer,UData,25 000 – 35 000 грн,"Python Developer Привіт! UData —  це стартап в галузі аналізу даних з офісом в Києві, ми займаємося Збором та Аналізом даних, Розробкою веб додатків, Автоматизацією Процесів. Наш ідеальний кандидат: 
+ Володіє англійською мовою на рівн і B2 
+ Має досвід у  розробці блокчейнів — смарт-контракти 
+ 
+ Має добрі комунікативні навички високий рівень стресостійкості та ініціативності 
+ 
+ Мотивується вивченням нової галузі, готовий до нових завдань  
+ З чим потрібно працювати: 
+ Розуміння що таке ООП 
+ 
+ Python 3.8+ 
+ 
+ Requests 
+ 
+ BeautifulSoup4 
+ 
+ Selenium or Playwright 
+ 
+ GIT 
+ 
+ Базові знання SQL  
+ Solidity  
+ 
+ Розуміння що таке API 
+ 
+ Плюсом буде знання Redis, ElasticSearch, Multiprocessing, 
+ 
+ Docker 
+ 
+ Базові знання функціювання блокчейну Solana 
+ Що ми пропонуємо:   
+ Вільний графік роботи ремоут або в офісі 
+ 
+ Роботу з цікавими проектами по всьому світу 
+ 
+ Безкоштовне відвідування курсів з покращення професійних навичок та англійської мови 
+ 
+ Перегляд заробітної плати раз на 3−6 місяців за результатами досягнень в роботі та професійному зростанню 
+ 
+ Можливості кар'єрного росту та саморозвитку 
+ 
+ Професійний та дружній колектив який швидко розвивається  
+ Для зв’язку з нами: Mail:  [ відгукнутися ]  Telegram:  @cherkasovmars","SQL,Git,Python,Комунікабельність,Знання принципів ООП,Docker,Стресостійкість,Selenium,Redis,Ініціативність,Саморозвиток,Multiprocessing,Python Requests,Playwright,Solidity,Аналіз даних,Орієнтація на результат,Solana"
+Junior Python,RockLab,No information,"Нам в команду нужен Junior Python developer со знанием Django или желанием его изучить для работы над интересными проектами. Плюсому будет знание Django REST framework, GraphQL и основ БД. Рассматриваем только кандидатов которые живут в Харькове или собираются туда вернуться. Сейчас работаем удаленно, но после войны вернемся в офис в Харькове. Требования: 
+ базовые знания Python 
+ понимание основ интернет-технологий 
+ умение работы с БД, знание основ SQL 
+ linux, docker 
+ английский на уровне чтения технической документации  
+ Мы предлагаем  
+ работу над интересными проектами с использованием современных технологий 
+ гибкий график работы 
+ офис в центре города (после войны) 
+ курсы английского в офисе (после войны) 
+ Ждем Ваше резюме на [ відгукнутися ] Заработная плата обсуждается по результатам собеседования.","Користувач ОС Linux,SQL,Python,Docker,Django,Django Rest Framework"
